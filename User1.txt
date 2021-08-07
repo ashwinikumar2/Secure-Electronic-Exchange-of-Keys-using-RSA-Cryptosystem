@@ -1,0 +1,8 @@
+User 1 chooses a random key k1 in Zp* = 329
+User 1 computes x1= 88
+User 1 and 2 exchange x1= 88 and x2= 1105
+User 1 computes x1,2= 6
+Common session key(e)= 5
+Optimized block size(b)= 2
+Private key(d)= 513
+Cipher text sent from user 1 to user 2= WUAQPAQJBJMBOHBHJA DBFCBGBA XA

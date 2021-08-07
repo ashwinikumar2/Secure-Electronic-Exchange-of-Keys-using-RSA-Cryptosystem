@@ -1,0 +1,9 @@
+User 2 chooses a random key k2 in Zp* = 633
+User 2 computes x2= 1105
+User 1 and 2 exchange x1= 88 and x2= 1105
+User 2 computes x2,1= 6
+Common session key(e)= 5
+Optimized block size(b)= 2
+Private key(d)= 513
+Cipher text recieved from user 1= WUAQPAQJBJMBOHBHJA DBFCBGBA XA
+Decrypted text of the recieved cipher text= INDIA IS MY COUNTRY.
